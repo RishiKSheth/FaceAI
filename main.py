@@ -1,3 +1,5 @@
+#This AI was made by Rishi Sheth and Atharva Kadam. It is able to identify and save faces into a database. It can be implemented in cameras such as doorbells, Security Cams and Airport Security Cams.
+
 import time
 import cv2
 import mediapipe as mp
